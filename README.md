@@ -30,6 +30,7 @@ Known Issues:
 - There is some stutters that lower the framerate with the camera.
 - Chinese and Russian not working (non-alphabetical).
 - Exit text say "REALLYEND" instead of his usual text.
+- Some levels are unplayable.
 
 ![In-Game2](https://github.com/user-attachments/assets/bc9e9864-e1e0-4d09-ad25-be011c9e9294)
 
