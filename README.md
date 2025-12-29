@@ -1,2 +1,34 @@
-# NFHS2-PS-VITA
-Neighbours From Hell: Season 1 for the Playstation Vita.
+# Neighbours From Hell: Season 2 for PS VITA
+This port is based on the free **1.5/1.1.5** (depending on the source) version of Neighbours From Hell: Season 2.
+
+**NOTE**: All **Season 2** levels are unlocked. Season 1 levels are disabled as they are missing from the game files. Social buttons have been disabled because they caused crashes.
+
+# Setting up
+For the best experience, I recommend enabling overclocking to reduce stutters as much as possible.
+
+**If you’d like to support the project, leave a tip !**
+
+**Ko-Fi**: https://ko-fi.com/maloneczsd
+
+**Discord**: https://discord.com/invite/k2GvUUT4bm
+
+# Patching
+- Download Neighbours From Hell VPK from VitaDB/Github and install it.
+- Go to the Release page and download ```NeighboursFromHellS2ANDROID.zip```.
+- Extract it.
+- Put the ```.xapk``` inside the extracted folder and name it ```NFHS2(.xapk)```.
+- Launch ```ApplyPatch.bat``` and wait (Can take several minutes depending on your system).
+- Let it finish and there should be a .ZIP file named ```NFHS2_FILES.zip```.
+- Open VitaShell, connect your PS Vita to your PC and copy the contents of the .ZIP file (Not the ZIP file itself, just files after the NFHB26 folder inside it) over to ```ux0:app/HELL20000/``` (Picture Below of how it should look after copying everything).
+- <img width="274" height="142" alt="318109423-4192edd4-00da-4247-8952-bb630a94bc22" src="https://github.com/user-attachments/assets/f4d5984a-aa77-4f5c-adb0-add1f10f5a29" />
+- Launch the game ! 
+
+
+Known Issues:
+- Text can glitch and need to be refreshed by hovering buttons or just reloading the menu.
+- There is some stutters that lower the framerate with the camera.
+
+*Thanks to PatnosD for everything*
+
+Have fun !
+Port by MaloneCZSD.
