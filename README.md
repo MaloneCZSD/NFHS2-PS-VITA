@@ -27,6 +27,8 @@ For the best experience, I recommend enabling overclocking to reduce stutters as
 Known Issues:
 - Text can glitch and need to be refreshed by hovering buttons or just reloading the menu.
 - There is some stutters that lower the framerate with the camera.
+- Chinese and Russian not working (non-alphabetical).
+- Exit text say "REALLYEND" instead of his usual text.
 
 *Thanks to PatnosD for everything*
 
