@@ -1,5 +1,5 @@
 # Neighbours From Hell: Season 2 for PS VITA
-This port is based on the free **1.5/1.1.5** (depending on the source) version of Neighbours From Hell: Season 2.
+This port is based on the free **3.2.5** version of Neighbours From Hell: Season 2.
 
 **NOTE**: All **Season 2** levels are unlocked. Season 1 levels are disabled as they are missing from the game files. Social buttons have been disabled because they caused crashes.
 
